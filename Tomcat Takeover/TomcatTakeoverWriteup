@@ -1,12 +1,12 @@
 CyberDefenders Lab - Tomcat Takeover
 
-Scenario:
+Scenario: The SOC team has identified suspicious activity on a web server within the company's intranet. To better understand the situation, they have captured network traffic for analysis. The PCAP file may contain evidence of malicious activities that led to the compromise of the Apache Tomcat web server. Your task is to analyze the PCAP file to understand the scope of the attack.
 
-Objective:
+Objective: Analyze network traffic using Wireshark's custom columns, filters, and statistics to identify suspicious web server administration access and potential compromise.
 
 Investigation Methodology: 
 
-Tools Used:
+Tools Used: Wireshark
 
 Key Findings:
 
