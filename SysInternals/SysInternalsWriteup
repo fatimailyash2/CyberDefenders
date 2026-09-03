@@ -1,1 +1,17 @@
+CyberDefenders Lab - SysInternals
 
+Scenario: A user thought they were downloading the SysInternals tool suite and attempted to open it, but the tools did not launch and became inaccessible. Since then, the user has observed that their system has gradually slowed down and become less responsive.
+
+Objective: Conduct endpoint forensic analysis to detect, analyze, and understand malware infections using disk images, registry artifacts, and threat intelligence.
+
+Investigation Methodology: 
+
+Tools Used: Autopsy, VirusTotal, AppCompatCachParser
+
+Key Findings:
+
+IOCs Discovered:
+
+Timeline of Events:
+
+Conclusion:
